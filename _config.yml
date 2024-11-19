@@ -23,7 +23,7 @@ email: legomavrock@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Where I post updates on my robotics ventures.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: markmavis26.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  markmavis26
 
 # Build settings
