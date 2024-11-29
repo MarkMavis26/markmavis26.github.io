@@ -11,3 +11,4 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+![Alt text](/assets/images/robot.jpeg)
