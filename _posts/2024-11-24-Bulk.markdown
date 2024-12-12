@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  "The Blog"
-date:   2024-11-14 20:06:34 -0600
+order: 2
+date:   2024-11-24 20:06:34 -0600
 categories: jekyll update
 ---
 ## End of Week 1 11/20/24

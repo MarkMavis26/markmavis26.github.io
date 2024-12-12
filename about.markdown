@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## The Engineering Journey
+All along the way, throughout my childhood, I've had dreams of being a computer engineer. Sparked by video games, my desire to learn how to code and potentially build computers was there from early on. I cannot say that these desires were acted upon, however. There was always a mental roadblock between me and becoming a self-starter with coding or robotics. Whether from frustration caused by failed attempts at an early age, or from preoccupation with a busy schedule, I could never get it right. At some point I decided it was time I get busy or move on. If I was going to make a major/career out of this, I had to figure out if it was really for me. This is me figuring it out. I am going to log my progress for the next year. By then, I will have greater experience and a better understanding of where my passions lie.
