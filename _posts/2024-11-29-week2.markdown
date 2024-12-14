@@ -1,0 +1,15 @@
+---
+layout: default
+title: The Blog
+permalink: /blog/
+---
+
+## End of Week 2 11/29/24
+With setup mostly done, this week was about figuring out what this project will really entail. We decided to brainstorm ideas, getting them written down on a google document. I'll spare you the desheveled mess of information bound to spawn from Dad and I co-editing a doc. But there was talk of catapults and "hydroponic control systems" (we've tried this one before) and the like. We also just had a chance to discuss possibilities out loud. He told me that apparently the mass production of e-books by google was primarily preformed by page-turning robots at incredible speeds. I never considered that physical pictures had to actually be taken.
+
+Later in the week I set off on doing some site cleanup (added an icon for the browser tab) and rearching the intricacies of the Lego Ev3 motors. A fascinating article I read ([Link Here](https://sites.google.com/site/ev3devpython/learn-ev3-python/using-motors)) got into the various features and uses of the motors included in the kit. This research allowed for an intuative understanding of how the color sensors work. We still are using EV3dev1 (most online examples are written for EV3dev2) so there are certain features currently inaccessible to us, but using ChatGPT (what a tool) I converted EV3dev2 into code usable for EV3dev1. I then got a line-following app running. Defining a desired light intensity and using the colorsensor for actual light intensity, an error variable finds the difference of the two. That difference is then multiplied by a proportional gain value for the "turn_rate." The "turn_rate" is added to the base speed of the left motor and subtracted from the base speed of the right. This obviously doesn't work if the line followed oscilates (or goes left). But it is a work in progress, and an exciting challenge. Next, we will figure a way to get that working with the one lightsensor. And buy some electrical tape. The offbrand expo marker wasn't cutting it for the line.
+
+#### Big takeaways:
+-ChatGPT is an incredible tool. While it is not always right, it is money when starting out on a project. When used and not abused, it revolutionizes modern learning.
+
+-Git gets easier. That sounded funny, but in reality it isn't just git. Everything gets easier with consistency. It doesn't take long to get the hang of these things. A very refreshing prospect.

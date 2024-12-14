@@ -1,18 +1,10 @@
 ---
 layout: default
-title: The Blog
-permalink: /blog/
----
-
-
-<!-- ---
-layout: default
-title:  "The Blog"
+title:  "Proj2"
 order: 2
 date:   2024-11-24 20:06:34 -0600
 categories: jekyll update
---- -->
-
+---
 ## End of Week 1 11/20/24
 I started officially Wednesday, November 13th. It is now Wednesday night on the 20th. In the beginning, I wrote a personal manifesto to lay out my reasons for starting and my plans for the project. The long and short of it was summarized in the intro above. With the help of my dad, I assembled the parts of a LEGO Mindstorms kit we had from several years before. After that, we got started on setting up my GitHub repository and this blog. To do so, Jekyll had to be installed. I've got to be honest, I knew Jekyll from Jekyll and Mr. Hyde before this project. Now I can say I have tapped the surface of the deep lake that Jekyll is. Along with that I of course used the terminal, that odd application with the daunting black screen and forbidding empty line block. Git is a not-so-self-explanatory application. It will take me awhile to get the hang of that, but thankfully I have the time. On the more tangible side, we got our first program running on the robot. With a sensor held up to my bright green shirt, the dutiful thing knew to move forward. It has been a week primarily made of setup, but I am not discouraged or quitting. That is more than can be said for a younger me. 
 
