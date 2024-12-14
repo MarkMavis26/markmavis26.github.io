@@ -1,10 +1,18 @@
 ---
 layout: default
+title: Projects
+permalink: /projects/
+---
+
+
+
+<!-- ---
+layout: default
 title:  "Proj3"
 order: 3
 date:   2024-11-24 20:06:34 -0600
 categories: jekyll update
----
+--- -->
 ## Line Follower Project
 Using the color tester device from the EV3 kit, we programmed a line following robot. The code for this is in my starterlego repository. Here is the first iteration of that program:
 

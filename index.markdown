@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+tile: Blog
+permalink: /blog/
 ---
 <ul>
   {% assign sorted_posts = site.posts | sort: "order" %}
