@@ -1,7 +1,0 @@
----
-layout: default
-title: Mark Mavis's Robotics Blog
-permalink: /home/
----
-
-## test

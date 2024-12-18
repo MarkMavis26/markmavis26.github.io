@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Week 4"
+date: 2024-12-15
+order: 4
+categories: blog
+---
+## End of Week 4 12/15/24
+Usually I try to write my blog on Fridays, but this has been an unusual week. I have been busy studying for finals and Christmas is approaching fast. Not to mention, some long-put-off cleanup was required for vscode. As for the week, there is not much to report. After the completion of the first iteration of the line-follower project, we opted to try out a different design for the next project. We will likely come back to the color sensor eventually. We selected a design for a lego catapult. The video for putting the legos together advertised that it only used parts from the lego Mindstorms set. This is when I realized that there are two different versions of that set. The general consumer version that I have, and an education version with more parts. The design is for the one with more parts. So that design has to wait until the extra pieces we ordered come in. With no current project to work on, I took to revising the blog and the site as a whole. After a week of doing so, I can honestly say that web design is not for me. I want to get back to building and designing. I am hoping to get back into the swing of things soon. Coding and solving problem is where the passion comes in. CSS and HTML? Maybe its that I don't fully grasp it yet, but at the present, I am glad I live in a world where AI will take that job from me (maybe I'll eat my words). 
+
+#### Big Takeaways
+-Less is More. Somehow, someway, my vscode screen became polluted with dozens of unecessary and sometimes obtrusive files and folders. It couldn't have been me. Anyway, a good rule of thumb is that if it doesn't have an explicable purpose, it does nothing but overcomplicate your screen. 

@@ -10,7 +10,7 @@ permalink: /blog/
   {% assign sorted_posts = site.posts | sort: "order" %}
   {% for post in sorted_posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}test</a>
+      <a href="{{ post.url }}" class="dark-link">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

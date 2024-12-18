@@ -1,7 +1,9 @@
 ---
 layout: default
-title: The Blog
-permalink: /blog/
+title: "Week 2"
+date: 2024-11-29
+order: 2
+categories: blog
 ---
 
 ## End of Week 2 11/29/24
