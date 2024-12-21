@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Week 5"
+date: 2024-12-20
+order: 5
+categories: blog
+---
+## End of Week 5 12/20/24
+This week I hit a block, and I'd sure like to say it was just because I was busy with finals. See, I was busy. I studied a lot, every night. In reality, though, I have been doing that all year. Nights where I was stumped on calc, or needed to take notes for chem, I managed to work in sessions for the project. So what was it? Well, I let a couple of days go this week without much of a fight. I felt no reason to, as it seemed we had hit a mini slump. The color tester, as simple as it was, was very exciting. I enjoyed piecing it together, solving the coding problems that went along with making it work, and seeing the final results. I bit the fruit and liked the taste. A lot. Then I felt it was necessary to do some jekyll cleanup and revisions. The flavorless vegetables I had downed without thought before I knew of the fruit. Its not that I was dodging a project, in fact I had an idea for one: the catapult, as mentioned before. This project had delays due to lack of necessary parts, but that wasn't the only thing holding me back. This idea did not excite me. It sort of felt like a toy, a useless one trick pony that a kid could throw together. Anyway, a combination of the drab revisions and lack of drive toward the new concept left me feeling unmotivated. Of course this lack of motivation in turn made me angry that I wasn't motivated. In this situation, I did what I do best when faced with like circumstances. I maintained. When unmotivated, often time is the only cure. At least in my limited experience. Well, this situation was no exception. One of the nights, left with no clear plan, I decided to research the various mindstorms tools and their functions. Tools like the sound detector, touch sensor, color sensor, and ultrasonic sensor. I began to brainstorm project ideas and throw them on a doc. I didn't want to care about buying parts and waiting for shipping. I wanted a semi-complicated concept I could stew over and figure out and make work with what I had. I told my dad several of the functions of the parts and some ideas I had for what we could do with them. Feeling unsatisfied with my recent progress and that I had just done all that to put my half hour down, I went to school the next day and didn't think about it too much. What I didn't realize was that it wasn't all for nothing. As it turned out, my dad, being the passionate engineer he is, had been piecing together a plan throughout that day. He briefed me on it, and the complexity as well as the application fascinated and intruiged me. That motivation and passion relit. I am going to dedicate the rest of this entry to describing the project and spare you my motivational rant, but I will say this: Maintain. If you feel slumpish, at the very least, *maintain.*
+
+## Room Mapper
+Yep. I thought it sounded cool, too. Here's the gist.
+
+-I will build a rover, similar to the one for the color sensor, and equip it with the necessary tools. These tools are slightly variable, as the method of control over the bot hasn't been decided. Voice actived? Pattern follower? How limitless! The constant, though, is the *ultrasonic sensor*
+
+-The ultrasonic sensor sends out high-frequency sound waves and records the bounce back. This is more for me than it is for you. Based on the quickness of the bounce back, the sensor can tell how far away obstacles or walls are. The application here is the ability to manipulate the bot based on this data.
+
+-The sensor will be deployed (set with all of the controls and commands we haven't crafted yet) and will map out the room. It will send this information to a web server that will draw the rough map realtime. This site and transfer will be as UI-friendly as possible, as this will simulate a real consumer product. 
+
+-There will also be a database and a "robot http client." My dad is teaching this to me as we go, so close to all of this is new to me. I have installed flask, postman, and we are using trello to plan.
+
+Conclusion:
+This project is a beast, but I will learn a lot. Can't wait to get started as well as be able to give you guys an intellegent description of what we are doing.
