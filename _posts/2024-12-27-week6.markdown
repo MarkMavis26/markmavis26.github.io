@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Week 6"
+date: 2024-12-27
+order: 6
+categories: blog
+---
+## End of Week 6 12/27/24
+A busy week with Christmas and festivities, but the project is well underway. This will be a short entry, as there is little to report. At the beginning of the week (Saturday) I built the rover. I went back to basics, using the original design for the color testor bot. When I told my dad what the plan was for the evening, my mom thought I had said "Robert" instead of rover. I guess I named it Robert. Well, it uses the ultrasonic sensor that we bought online. The kit we purchased did not include one of these, so thankfully the EV3 allows for interchangeability between versions. I coded a program for the robot to turn when it detects closeness to a wall, and I can honestly say I am getting better at programming. I enjoy it a lot too. This program will have its obstacles, as the detector tends become innacurate when within 10 centimeters of a wall. Eventually, though, it should be able to map fairly accurately. We discussed possible methods of mapping, and one that stood out to me was a seemingly "brute force" approach. The bot would hit a wall, turn 185 degrees, and go until it hit the next. Rinse and repeat. This would allow my depth of skill to come into play, as the application of my mastery of the law of cosines becomes important here. Yes, after I look up the law of cosines, I will be able to masterfully use it. Jokes aside, though, I am very happy to be on the brink of complicated mathematical problems with this project. In fact, I was able to scratch the surface tonight with a conversion I made. More details in the attached video. 
+
+#### Takeaways:
+-Don't let the small details block out the big picture. That's something my dad said. If you allow slight imperfection to take up your time and focus, you are undermining the larger project. 
+
+-I need more visual evidence. My descriptions are poor and don't do this project justice. From now on, I will try to incorporate more videos and pics into the blog. I am learning robotics, but I also need to learn to document better.
+
+#### PPC (Project Progress Check)
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=PPL4nxagR4M" frameborder="0" allowfullscreen></iframe></div>
