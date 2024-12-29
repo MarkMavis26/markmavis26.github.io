@@ -14,4 +14,4 @@ A busy week with Christmas and festivities, but the project is well underway. Th
 -I need more visual evidence. My descriptions are poor and don't do this project justice. From now on, I will try to incorporate more videos and pics into the blog. I am learning robotics, but I also need to learn to document better.
 
 #### PPC (Project Progress Check)
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=PPL4nxagR4M" frameborder="0" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/PPL4nxagR4M" frameborder="0" allowfullscreen></iframe></div>
