@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Room Mapper"
+date: 2025-01-19
+order: 2
+categories: projects
+---
+
+## Room Mapper Project
+Using the ultrasonic sensor device and a wifi dongle, the lego robot maps a room and sends telemetry to the computer. The computer uses this on a web server to draw a map!
+
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/hZLGmMj3jj4&t=102s" frameborder="0" allowfullscreen></iframe></div>
