@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Week 10"
+date: 2025-01-25
+order: 10
+categories: blog
+---
+
+## End of Week 10 01/25/25
+This has been an exciting week. As I discussed last week, I decided to work with Unity and Blender to explore my passion for making video games. I downloaded blender, but my dad said I'd be better off starting with Unity. He was right. Unity is a gaming engine (the meat and potatoes) and blender is a 3D modeling and animation app. The engine must come first. You can't arrange the furniture until the tile is layed. 
+
+So Unity. I am working through a surprisingly intuative guide on the Unity website. Movement and overall design is fairly straightforward, at least for now. It is starting to feel like I am not far from being able to make games of my own, which is an exciting propect. Nothing too specific to report on this week. Just a clown figuring out how to juggle.
+
+#### Thoughts
+To work at Rockstar Games would be ideal for me. What a dream. Creators of masterpieces like Bully and Red Dead Redemption, they represent a standard for game design I hope to be a part of one day. Thinking about this, I researched what they look for in applicants. This might be getting ahead of myself, but I was curious nevertheless. They looked for computer science students who were proficient in C++ (their primary language) and who were passionate about video games. The last part would not be an issue, but the first part presented a dilemma. I have been leaning for months towards majoring in computer **engineering**. Engineers build game engines, but thats the long and short of it as far as I know. I thought maybe computer science was more my forte. But my dad brought up an interesting point. "Pursue what interests you. Don't worry about building an application." In certain environents, it is safe to be exploratory. College is one of those I would say. Who says I can't be a dev while also knowing how to build chips? Besides, if I expressed passion and skill for creating games (you can tailor an engineering major more towards software if you so choose) I don't know how they'd say no based on my major alone. The future is exciting.
