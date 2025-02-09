@@ -15,11 +15,11 @@ This week, since I don't have much to report, I'll talk about game design. Here 
 #### Simplicity
 There must be some level of simplicity. In modern games there is interface and action. The action is what's happening, who you are controlling, the cutscenes. The interface is the map in the corner of the screen, the money counter, the pause menu. A good rule of thumb is to put as little as possible on the screen without affecting the gameplay.
 
-![My Image](manhunt.png)
+![alt text](manhunt.png)
 
 The above image is from a game called Manhunt. In the bottom right corner you have a "mini-map." It shows the location of the character relative to the enemies in the scene. It is black and white and slightly transparent, doing just what it needs to do and nothing else. There is also an image of the equipped weapon and how much ammo you have, your health, stamina, and a prompt telling you what action you can perform in the right. These are all things that are immediately important and necessary for the player to know. The majority of the screen is dominated by what matters: the action. The interface is important, but the action should take the front seat. This game is an example of design mastery as it uses visually simplicity to aid nuanced complexity. The music changes when an enemy is nearby. The prompt darkens when James Earl Cash is hidden from sight. The rim of the mini-map flashes when you are being chased. The ammo counter turns red when you run out. 
 
-![My Image2](bad-game.png)
+![alt text](bad-game.png)
 
 Above is an example of too much interface. I believe the game is called Dead Space.
 

@@ -6,7 +6,7 @@ order: 9
 categories: blog
 ---
 
-## End of Week 8 01/17/25
+## End of Week 9 01/17/25
 In the beginning of this week, we wrapped up the mapper project. We got all the necessary parts in play, and it is pretty impressive. I am working on a video presentation now. It is possible that we return to it one day to refine and improve it, but we will move on for now. 
 
 The next phase of our journey is very interesting. I don't know if I have mentioned this before, but my true passion lies with entertainment. I have always wanted to produce art in some form for entertainment. Movies, books, comics, you name it. But video games are at the top of the list. I can still remember the first game I ever played. It was called "Infestor" and it was on the original iPad. Up until then I thought the only thing I ever wanted to do was put together Lego sets. But video games opened up a whole new possibility. I continued to play mobile games (back when they were good) for the next couple of years. Then, when I turned five, I got surprised with a Wii U, and more importantly, a video game called "Lego City Undercover." That game remains one of the best I've ever played. At the time I was fascinated by it. I began to try to design games of my own. I never got far, as that is obviously quite the undertaking, but I would dream of concepts and ideas. I can remember times when my dad attempted to teach my and my sister (now a computer science student at Illinois) how to code. I never could get it until recently when I've started to really learn, but I always knew that was the only missing piece between me and what I wanted to do. 
