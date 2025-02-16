@@ -6,7 +6,7 @@ order: 12
 categories: blog
 ---
 
-## End of Week 11 02/08/25
+## End of Week 12 02/08/25
 Another week of unity! Not much to say. This week, I started learning about 2D development. Slightly different than 3D. The physics and interface change in unity depending on 2D vs. 3D. Overall, though, it is mostly the same. Well, that about wraps up the week.
 
 ## Game Design
@@ -23,6 +23,6 @@ The above image is from a game called Manhunt. In the bottom left corner you hav
 
 Above is an example of too much interface.
 
-Manhunt's design features are special because they are relatively rare. A fact that plagues many modern games is that developers think all games must be "realistic." They want to give you more, more. Part of reaching this perfect level of simplicity is using linearity. You can have realistic games with limits. There must be limits. When I fire up a game and I am prompted to design my character from the ground up (appearance, personality, "type") I am usually tempted to turn it off immediately. This is a non commital way for designers to be lazy under the guise of "giving you more options." Because really, your only option is a mute loser who makes you wonder what your missing with the other character "type"s. No, to make a good game you need to take ownership and build a story for one protagonist. You are simplifying, but in reality, your story has potential to be far more complex than otherwise.
+Manhunt's design features are special because they are relatively rare. A fact that plagues many modern games is that developers think all games must be "realistic." They want to give you more, more. Part of reaching this perfect level of simplicity is using linearity. You can have realistic games with limits. There must be limits. When I fire up a game and I am prompted to design my character from the ground up (appearance, personality, "type") I am usually tempted to turn it off immediately. This is a non-committal way for designers to be lazy under the guise of "giving you more options." Because really, your only option is a mute loser who makes you wonder what you're missing with the other character "type"s. No, to make a good game you need to take ownership and build a story for one protagonist. You are simplifying, but in reality, your story has potential to be far more complex than otherwise.
 
 So there is game design tip number one. This was fun, there could be more in the future!

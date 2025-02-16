@@ -1,0 +1,55 @@
+---
+layout: default
+title: "Week 13"
+date: 2025-02-15
+order: 13
+categories: blog
+---
+
+## End of Week 13 02/15/25
+More Unity. It has been going well. I am almost done with the "intro tutorial" and getting excited about possibly doing my own project. I feel I am getting better at figuring out bugs and problems on my own, which tells me I am getting used to the UI. Let me talk about an idea I had for my project.
+
+## My Potential Project
+As I have mentioned before, I am a big fan of Rockstar Games. One of their games, Manhunt, which I have also mentioned, features a concept I feel I could put together now. I'll get into that more later. I also recently watched the movie Boogie Nights. I won't get into the premise of that one too much, as it is pretty raunchy, but one aspect of it I found intriguing was a mood switch. The first half of the movie takes place in the 70s where the characters are partying and living it up as they bask in great success. Then, halfway through, the turn of the decade takes place and the whole vibe changes up. Reality catches up with the characters as they get hooked on drugs, can't pay the bills, and get involved in violent and dark mishaps. In my game, I want to capture this idea. I'll explain how.
+
+We'll say the game takes place in 1983. There is a group of hard-living socialites stuck in the 70s. They have a business that used to be lucrative but is becoming obsolete. The fun times turned into an aching need for drug fixes that prohibit a normal life outside of the discotech. The party is over. They all recently decided to enter the criminal underworld. They operate a devilishly lucrative drug ring and are turning things around at the expense of the medium sized city they reside in. Our protagonist, Jack Harlowe, is a reporter determined to expose the operation and end their reign of terror once and for all. Jack comes painfully close to doing so when he is knocked out and taken from his home. He wakes up a rat in a table maze. The socialites have decided upon a punishment for the man who almost forced them back into the gutter. They will watch a live broadcast of his forced traversal of a makeshift obstacle course where death waits around every corner...
+
+Now the above paragraph is the entirety of the DREAM project. The Manhunt "concept" I mentioned is simply one board. A room where you can stealthily kill enemies. That is the first project. The Manhunt-Inspired blockbuster above would take time and skills I do not have yet. But, I think it is reasonable to have an end goal in mind, no matter how far to that end.
+
+## My Thoughts on the Future
+I want to learn how to do everything AI would do for me. Someday I am aware that my engineering job will rely heavily on AI support, but if I don't know that I can do those things on my own, I will never be fulfilled. That being said, after I learn a monotonous task, I will gladly allow for efficiency. I want to know how to program the physics in a video game, but won't say no to an engine that will do that for me. I want to know how to build 3D assets, but I will accept AI constructed assets to shorten jobs. I will never allow AI to replace creativity. To use AI for the part of entertainment that is truly important is to give up. My Dad and his brother (also an engineer) compared video games and AI made video games to woodworking and furniture factories. I don't want to work an assembly line, I want to build the chair myself, flaws and all. At the end of the day, you can stand and walk away from a factory-made wooden chair. But an AI-made chair might gently pull away motivation to move again, lulling you to sleep...
+
+#### Music Recommendations
+Electric Relaxation - A Tribe Called Quest
+
+Mole on the Dole - Climax Blues Band
+
+Just Got Paid - ZZ Top
+
+Everything in its Right Place - Radiohead
+
+So Easy - Röyksopp
+
+Either Way - Wilco
+
+Express Yourself - N.W.A.
+
+Southern Man - Neil Young
+
+Stranger in a Strange Land - Leon Russell
+
+Wish You Were Here - Pink Floyd
+
+Let's Stay Together - Al Green
+
+Son of a Gun - Nirvana
+
+The Wurlitzer Prize - Waylon Jennings
+
+Harder Than You Think - Public Enemy
+
+
+
+
+
+
