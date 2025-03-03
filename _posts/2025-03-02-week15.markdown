@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Week 15"
+date: 2025-03-02
+order: 15
+categories: blog
+---
+
+## End of Week 15 03/02/25
+Another week of Unity and measurable progress made on my game. It is a slow process, but it is fun to work through. I was a little less consistent this week due to business with track and school. There were times this week when I felt incredibly burnt out and lost. The strain of junior year is culminating and really starting to burn right about now. I am doing my best to work through it and trying to change my outlook. Outlook and mindset is a hard thing to change. Each day feels like a non-stop job where I work at every hour. But, on the contrary, I am usually bored when left to my own devices. I am still going strong with teaching myself chemistry (an inconsistent teacher) and working through calculus, but each is getting very tricky. Chemistry is very complicated and relies on deep knowledge of a full year of learning. Math the same, a reliance on combinations of everything we have covered. Areas and volumes of function intersections are complicated and their uses a little hard to grasp. Anyway, these things are stressful, but they don't have to be. Spring break is coming up where I can really refresh and prepare to give it one final push through 4th quarter. I will view it as a challenge. That's all for this week.
