@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Week 16"
+date: 2025-03-09
+order: 16
+categories: blog
+---
+
+## End of Week 16 03/09/25
+Another week done. I have been less consistent with sessions recently, but I severely lack time to get them in. I do my best to get in as many as possible throughout the week, however, and when I have extra time I will do extended sessions (like today). I am working through a video tutorial on how to make a third person shooter on Unity. The video is very good and easy to follow (shout-out to CodeMonkey). Right now the character moves with the camera fixed over his right shoulder. The speed at which the camera moves can be slowed with an aim feature that zooms in the view and reduces the "look around" motion by half. This focus feature is common in many third person shooters like Uncharted. I have a crosshair for aiming and a raycaster which detects collision with walls. This raycaster feature explained my longstanding confusion about "invisible walls" in games. If the bullet does not eventually hit something, it breaks. There must be an invisible box around a scene so there is always collison. The character model itself now moves smoothly between aim and regular walking as well. I am just copying CodeMonkey's code at this point, but I feel I am learning yet. After all, I couldn't teach myself any of this stuff.
+
+#### Weekly Thoughts
+
+I am feeling less burnt out this week, but maybe that is because Spring Break is approaching fast. I am starting to find a balance between work and otherwise that works for me. This balance is heavy on the "work" side by design, but that is necessary at this point in my life. 
+
+Not much else to say. Not necessarily a bad thing. Until next week.
