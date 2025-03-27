@@ -1,0 +1,14 @@
+---
+layout: default
+title: "Week 18"
+date: 2025-03-26
+order: 18
+categories: blog
+---
+
+## End of Week 18 03/26/25
+My blog is much later than usual this week and I'm chalking it up to my other obligations. I had to study for the ACT, which I took today. Finally, with that treacherous experience behind me, I can back into the swing of things. By the end of this week, I am hoping to have a video presentation prepared which displays the game I have been working on in Unity. It is not finished, probably never will be, but there has been progress significant to show off. 
+
+Soon, I want to start working with my dad again. I have been on Unity for over two months now and am ready for something new. I am not sick of Unity by any means, it is fun and interesting to use, but each new step takes a lot of time. I want to work strictly with hardware next. It is time to dive into what will become a key aspect of my future major. Computer circuits and chips, sautering, and robotics will of course become imperative to learn. 
+
+There is not much else to report from last week. These lulls in progress are inevitable, and will subside when I have more time during the summer.
