@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Week 19"
+date: 2025-03-31
+order: 19
+categories: blog
+---
+
+## End of Week 19 03/31/25
+I did not post a video for my project in unity yet, but there is a reason for that: it is far from finished. In the process of transitioning from Unity to something hardware related, I discovered a very intruiging Unity tutorial. This tutorial will teach me how to build a game like Uncharted, one of my all time favorite games. This will be a good use of my time as the man gets into how to design characters and mechanics from stratch--things I have not messed with yet. I am going with the flow. I won't quit something that fascinates me in favor of an obligation to do something else. I will get to hardware eventually, I have ALL summer. The project video/videos will come in time. I probably won't show the original 3rd person shooter until it is slightly more polished. This polish will come with greater knowledge. In addition to other fascinations, I am not going to dive head first into deep waters until I have enough time. By that I mean that I am not going to get involved with hardware (completely uncharted territory) until I am through with AP testing and other school-related obligations. Unity allows me to go at my own pace. There will be much more to come in the future. I know it seems like I have been working in Unity for a long time with nothing to show for it, but I am learning a lot. Video game being my true passion anyway, I feel it is time well spent. I hope to put together a portfolio of sorts eventually. I have time for it all. Until next week!
