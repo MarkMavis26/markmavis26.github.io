@@ -1,0 +1,14 @@
+---
+layout: default
+title: "Week 20"
+date: 2025-04-06
+order: 20
+categories: blog
+---
+
+## End of Week 20 04/06/25
+The Uncharted clone is well underway! There have been bugs and issues (as I suspected) but it has gone relatively smoothly considering I am still fairly new to Unity. One major bug I ran into while importing assets for the scene is that all of my sprites were bright pink. This ended up being an issue related to the "shader." As soon as I changed from the default shader to universal shader and applied the textures to their necessary locations, the bug was fixed. I was able to get in many sessions this week which I was happy about. Recently my progress has been hindered by other obligations, and it will be again soon, but I enjoyed the nice break. 
+
+Not much else to say. I will recommend a game though. If you haven't, play the video game Bully. It is the perfect video game. It is about a kid, Jimmy Hopkins, and his experience at a boarding school. The atmosphere of the game is universal in that it is relatable to all players. With no specified time period, the game takes place in an environment which uniquely blends aspects from across decades to elicit nostalgia in people of all ages. The soundtrack is similarly uncategorized and provides an eerily familar backdrop which fits like the last of a 10,000 piece puzzle. The level design represents the harmonization of tried and true elements skillfully assembled by the master Rockstar Games. With this game, they surely caught lightning in a bottle. The true shining star in the long running video game industry. And for interested readers, this game is available on Steam for likely less than 10 dollars and must be finished to be fully appreciated.
+
+Until next week!
