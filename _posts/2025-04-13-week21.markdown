@@ -13,6 +13,7 @@ I am getting to the end of most of my junior year curriculum and will be studyin
 
 That's about all for the week. While I am thinking about it, I will provide a link for the tutorials I have been using for Unity. Until Next Week!
 
-[Uncharted Tutorial](https://www.youtube.com/playlist?list=PLKtxV4--vCJUFypm9W0DCjpQOzxfuxckm)
+<a href="https://www.youtube.com/playlist?list=PLKtxV4--vCJUFypm9W0DCjpQOzxfuxckm" style="color: #007bff;">Uncharted Tutorial</a>
 
-[3rd Person Shooter Tutorial](https://www.youtube.com/watch?v=FbM4CkqtOuA&pp=ygUeY29kZSBtb25rZXkgM3JkIHBlcnNvbiBzaG9vdGVy)
+<a href="https://www.youtube.com/watch?v=FbM4CkqtOuA&pp=ygUeY29kZSBtb25rZXkgM3JkIHBlcnNvbiBzaG9vdGVy" style="color: #007bff;">3rd Person Shooter Tutorial</a>
+
