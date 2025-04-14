@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Week 21"
+date: 2025-04-13
+order: 21
+categories: blog
+---
+
+## End of Week 21 04/13/25
+Another week down and more progress made on Unity. This week I ran into several setbacks in the form of bugs. My code and Unity template looked the same as the guy's, but there were unexpected issues. After working through it with Uncle Willy, I was able to figure out the simple things I was missing. His consultation is allowing me to learn about debugging and troubleshooting which is good. The creation of this game allows me to appreciate the work triple A studios have to do so much more. The level of polish on a real Uncharted game would take years and many helping hands. 
+
+I am getting to the end of most of my junior year curriculum and will be studying for AP tests before long. I am going to have to seriously lock in as I have 4 tests to take in less than a month. I know I can do it, but the progress on the project may falter. Summer is close, though.
+
+That's about all for the week. While I am thinking about it, I will provide a link for the tutorials I have been using for Unity. Until Next Week!
+
+[Uncharted Tutorial](https://www.youtube.com/playlist?list=PLKtxV4--vCJUFypm9W0DCjpQOzxfuxckm)
+
+[3rd Person Shooter Tutorial](https://www.youtube.com/watch?v=FbM4CkqtOuA&pp=ygUeY29kZSBtb25rZXkgM3JkIHBlcnNvbiBzaG9vdGVy)
