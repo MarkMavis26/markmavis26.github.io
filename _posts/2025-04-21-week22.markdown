@@ -1,0 +1,14 @@
+---
+layout: default
+title: "Week 22"
+date: 2025-04-21
+order: 22
+categories: blog
+---
+
+## End of Week 22 04/21/25
+Progress was a little slow this week. Due to an error, I struggled with both the walking and jumping functionality in my game. My code was mostly sound, so the discrepancies between Unity and VSCode caused the majority of the issues. At one point, the trigger for an animation was denoted by the simple name "Start Jump." At this point in the tutorial, the tutorialee decided to switch up his notational trend by putting "StartJump" with no space instead. In an attempt to keep my notation uniform, I did it my way and moved on. Later, when writing the code, I, of course, forgot about this act of rebellion. The "StartJump" action call in my simple block of code was an almost invisible and uncharacteristic problem. Thus, it took me almost 3 hours to discover this. Admittedly, I used chatGPT to help which wasn't cutting it this time. It wasn't until I was inadvertently directed to pay attention to the original action call that I noticed that pesky space. 
+
+A similar situation took place around the walking mechanic. My uncle and I broke down every line of code. Again, after hours of searching, I made a discovery about a discrepancy. This time, a value on VSCode did not match the one on Unity for velocity. In fact, the velocity on Unity was 0; Bet you can guess just how much walking my player did! Anyway, it's not always about paying attention. Sometimes it's knowing the pattern of errors and trying different values (especially if a movement value is 0).
+
+I am done with most of my curriculum in school. The early finish allows me time (a little bit at least) to study for my AP tests. With this, I'll still be busy. However, the doorway to being able to focus on coding exclusively is opening!
