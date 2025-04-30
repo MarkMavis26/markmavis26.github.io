@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Week 23"
+date: 2025-04-29
+order: 23
+categories: blog
+---
+
+## End of Week 23 04/29/25
+Sorry for the late post, I have been up to my ears. Last week was more Unity as you might expect. Project is going smoothly! I won't be able to do much this week as I have to study for FOUR AP tests. It is a lot and requires a lot of my time. As I have mentioned before, we are on the brink of summer break where I will be able to dedicate my full attention to this project. For now, I have more pressing matters. That's really all for that week. I will probably post an update at the end of this week in case I do do anything, but we will see. Until next time!
