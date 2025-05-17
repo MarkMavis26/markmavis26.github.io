@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Week 24-26"
+date: 2025-04-16
+order: 24
+categories: blog
+---
+
+## Weeks 24 through 26 5/16/25
+I am finally back. After two weeks of hardlocking in for AP tests (Chemistry, US History, Calculus, Language) I am done with most of my coursework. I had to take the time off. Not only was the studying itself time consuming, but the surrounding stress involved with taking those tests on made the project harder to focus on. Now, though, that I am bored and have much more spare time, I can fully focus on the project and college admissions. Today I finished up something to do with the character's shooting animations and the beginnings of the bullet physics. Because today was the return to form, there is obviously not much to report. I will have more next week as I return to weekly blog posts. Glad to be back!
