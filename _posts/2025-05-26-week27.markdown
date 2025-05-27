@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Week 27"
+date: 2025-05-26
+order: 25
+categories: blog
+---
+
+## Week 27 5/26/25
+This week has been my first full week back, and it has been nice. It took a little bit of self-force to get the ball rolling again, but I am really glad I applied it. As soon as I started working on the project again, I was enjoying it and excited about it again. At one point, as I am still following the Uncharted Tutorial, I was told by the instructor to complete part of the project on my own as homework. To my delight, I was able to complete the extra work with no issue. This indicates to me that I am getting better and better at Unity.
+
+I have one week left of school, and it feels strange. This year has been a fast-moving train, and certain parts of it don't even feel real. I got on board back in August and decided I was going to lock in to my studies. It was the right move and I have benifitted from it, but it left very little time for other thought and emotion. I am very glad the year is over, and am excited for the opportunity to rest and recover. Of course, as I have mentioned, I will be continuing the project throughout the summer. This will be no problem in terms of motivation, and furthermore, I will approach it with much more rigor. Believe it or not, coding at 9:30 pm after 12 hours of sports and study is not ideal or productive. On Thursday, the summer begins. I will be lifeguarding, coding, and relaxing. Next time you hear from me, I'll be a new man. Thank you for reading up until now, and look forward to more progress in the future. Until next time!
