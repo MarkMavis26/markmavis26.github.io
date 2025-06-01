@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Week 28"
+date: 2025-06-01
+order: 26
+categories: blog
+---
+
+## End of Week 28 06/01/25
+Summer has begun! I have been slowly decompressing and getting into the summer grove. There is always, believe it or not, an adjustment period from school to summer. I still wake abruptly at 6:25 every morning with no alarm, like Morgan Freeman at the end of Shawshank. As expected, full days off have allowed me to put a lot of focus into the project. With full energy and nothing else going on, I have gotten lost in hour to hour-and-a-half long sessions. I hope to continue this and make great progress. When I am done with this Unity game, which I am enjoying immensely, I am excited about the prospect of possibly working with hardware. I hope to post more Youtube videos in the future, and I certainly will post one on this current project when it is done. 
+
+## Early Summer Thoughts
+A major consideration for myself and my future will be discovering where my passions truly lie. It would be a disservice and a lie to say I am a pure engineer. By that I mean that I would never be content with a career based purely in logic, numbers, physics, or theoretical ventures. Don't misunderstand, I love those things in their own right, but I love to create as well. I love art. This unity project, as I know well, is not particularly relevant to Computer Engineering. It is, however, relevant to my passions, and at the end of the day a major is nothing more than a vessel to reaching one's passions is it not? I can have multiple disciplines and passions, and I will. Just the other day I watched Taxi Driver. This film follows a mentally disturbed and lonely Taxi Driver as he falls further away from reality, and it is masterfully filmed and executed. Just by rewatching this classic my old passion for film and filmmaking was reignited. Recently, while bored in class, I drew a comic strip, another missed relic of my past. Additionally, avid readers have caught bits and pieces of the creative writing I have dispersed throughout this blog. I could never give up creativity, and I do not plan to. When I get to college, I will major in engineering and likely enjoy the coursework greatly. However, I will strive to incorporate creativity and never let that part of my life go. 
