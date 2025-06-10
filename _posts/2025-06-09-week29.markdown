@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Week 29"
+date: 2025-06-09
+order: 27
+categories: blog
+---
+
+## End of Week 29 06/09/25
+A little late on the blog this week. I took the SAT over the weekend, so that took up a little bit of my time. I am currently putting the finishing touches on my game, and I can't lie, it has been a hassle. Some of the functions, especially those relating to terrain, have not been working as expected/intended. I hope to finish it up with the game looking decent, but I do not plan on making it perfect. I am not shipping this game, and my time would be better spent elsewhere. I have done more than dip my toes in the water with Unity, and I can safely say I love it. But, I think after this 5 month hiatus, it is time to move on. After all, the original intention of the project was to cover all the bases. I have done robotics and a decent amount of applied computer science. Now, I think it is time for some hardware-related building. My uncle and I have been plotting on a few different ideas. One that stuck out to us was an electromagnetic projectile launcher. We will see what we see. I am excited to see where my ambition takes me next. Until next week!
