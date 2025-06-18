@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Week 30"
+date: 2025-06-17
+order: 28
+categories: blog
+---
+
+## End of Week 30 06/17/25
+This week and next, I will finish up the Uncharted project. First, I am going to get the shooting system to work properly. I will need Uncle's help with this. Next, I will finish up UI and such with the last few tutorial videos. Then, I will attach it to Github and make a youtube video demonstrating it. When all of this is done, I am moving on to bigger things.
+
+Specifically, I am going to build a simple gaming engine. I am going to use C# (per my dads recommendation) and make it basically functional. This will demonstrate a grasp on physics and architectural understanding. More to come. Until next time.
