@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Week 31-32"
+order: 29
+categories: blog
+---
+## End of Week 31 and 32 06/26/25
+I am still finalizing things with the video game project. Due to unexpected errors with Git Hub unison and technical setbacks, the wrapping-up of the whole thing has taken far longer than expected. It is ok though, I will be done soon and know already what comes next. 
+
+My Uncle and I are in talks about a battery project. Rather than purchasing an expensive, wasteful new battery for his power drill, he will repair the old one. I am going to assist in this, and learn about electrical engineering along the way. He has already had me watch videos about Ohm's Law, Parallel and Series Circuits, and other basics in physics. I am excited about this opportunity. 
+
+In addition, I will continue on with the game engine project. If I can build a simple games engine before college admissions, I will be mostly satisfied with the work I have done thus far. Beyond that, I will spend significant time improving the cosmetic side of my portfolio; after all, what does all of this work matter if it is not presented in a way that demonstrates it properly? I plan to continue working on things beyond submitting applications, but it will be less frequent I imagine. I need some time to relax in my senior year. By relaxing, I mean I must tend to my mental health. If I were to continue at the pace I was going at during my Junior Year, I would burn out. I want to avoid that if I can. I will still work hard, but I won't over-do it.
+
+Things are looking up, but I am currently looking down. I struggle a lot during the summer with mental health issues and staying busy. Recently, ups and downs with my confidence have dampered my life significantly. Along with this project, improving my mental state will be the most important thing in my summer and life. I have to figure out how to keep an even emotional keel, otherwise all that I have done will be for naught. Thank you so much to whoever might still be reading this. Until next week,
+
+Mark
