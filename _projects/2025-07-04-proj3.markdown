@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Unity Game"
+date: 2025-07-04
+order: 3
+categories: projects
+---
+
+## My First Unity Game
+Over the course of 6 months, I have been learning how to use the Unity Game engine to make 3D games in C#. This has been a fun and engaging project, and I feel it was well worth the amount of time it took to fully get immersed in. I have made a game which is similar to Uncharted as a kind of grand finale for the whole thing. It is far from perfect, but I am ready to move on to other things under the Comp E umbrella. After all, this project is about being broad and getting exposed rather than perfecting specific things. Please stay tuned, as next I will be helping my Uncle with a battery/electrical engineering problem. Soon after, I will begin work on a simple game engine. Below is the Unity project video, I hope you enjoy!
+
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/isa_oOAzeOE" frameborder="0" allowfullscreen></iframe></div>
