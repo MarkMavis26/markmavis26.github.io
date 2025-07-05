@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Week 33"
+order: 30
+categories: blog
+---
+## End of Week 33 07/05/25
+I am done with the Unity project at last! I enjoyed it, but I am thrilled at the prospect of moving onto other things. Right now, as I may have mentioned before, my uncle and I are planning to get together and fix his power drill batteries. This will be a fun experiment in electrical engineering. I have already leanred from videos he sent me regarding parallel and series circuits. 
+
+Beyond that, I have been researching and planning for my next venture: a game engine built from scratch! With the power of ChatGPT, as well as one of my dad's old Computer Graphics textbooks from U of I, I will attempt to build a basics physics engine and learn a thing or two about the low level magic behind video games. I have not delved deep enough to say for sure what I will do or how far I will go, but I can promise it won't be boring (David Bowie). By the end of this next project, I hope to have an understanding of basic physics and use it not only as a baseline for AP Physics next year, but also as a baseline for collegiate physics. I also hope to become more proficient with python.
+
+#### Weekly Thoughts
+The results for the AP exams will be released next Monday (two days from now). I am excited, but also very nervous. I hope I do well, but regardless, these results will be the last pieces of the puzzle for my list of stats. Most everything else is in place: SAT, ACT, clubs, this project, volunteer hours, etc.. Although, one thing I do still need to do is write essays. I have been mulling over a few different ideas, but I haven't produced anything solid yet. It is a relatively slow moving process, but that is a net positive after the bullet train of a year I had.
+
+I have been feeling depressed more and more again recently. I wish I could chalk it up to the simple fact that I do not do well with free time. However, I would be lying if I said it wasn't something that has plagued me for a very long time. In fact, I can reasonably pinpoint the beginning of my bout of off and on depression on the summer after my freshman year. Something shifted then, and I don't quite know what. Since then, I have had ups and downs, but it has been relatively constant. With this recent spike, I have begun to try to figure out the next approach. I will try to work through it on my own, but I am open to external help. I am always told I will feel better when I am out of high school. It is true that high school has not been the greatest for me. However I struggle to see greener pastures. Maybe college will truly be an enlightening, fresh, and reinvigorating experience. Or maybe it will just be a bigger place with more acute loneliness. I will try to have hope.
