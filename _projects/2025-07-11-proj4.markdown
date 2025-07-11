@@ -1,0 +1,35 @@
+---
+layout: default
+title: "Battery Repair with Uncle"
+date: 2025-07-11
+order: 4
+categories: projects
+---
+
+## Diving into Electrical Engineering
+My Uncle was recently faced with a problem: He has a large collection of rechargeable batteries for his power drills, but some of them have begun failing to work. Rather than wasting money on replacements, he decided to repair the current ones using knowledge of circuitry and electricity. He also recognized it as a great learning experience for me, as I will be doing electrical engineering as part of my major.
+
+As a warm up, I learned about Ohm's law and parallel/series circuits. Ohm's law introduced me to some fundamentals:
+
+Voltage = Current * Resistance
+
+With the comparison to water, I understand that voltage is akin to water pressure, current to the volume of water flowing, and resistance to the restriction of water flow. It is also clear that with the Ohm's law triangle, this equation can be reworked to calculate for any of the relevant values.
+
+The difference between series and parallel circuits fascinated me as well. A series circuit flows end to end in a loop. A parallel circuit divides the current between two components which are side by side. In a series, voltage of the components is added, while in a parallel circuit, the voltage is the same. The equations for resistance and current change as well. 
+
+With these basics learned, I felt ready to help solve his problem and build my understanding.
+
+#### Day 1
+Uncle arrived with a container of the broken batteries (as well as a working one for reference), a basic charger, a voltometer, a charger for the individual cells in each battery (there are 5 for each), and some basic wiring. From the beginning, it was clear that the batteries were broken. When we plugged them in to charge, a light came on which indicated internal damage. In order to assess this damage, we first noted that a functional battery should have a voltage close to 20V (per the instructions on the battery itself). We tested the functional one with the voltometer, and this returned true. With 5 cells, we also knew that each should have a voltage of roughly 3.7V. The damaged batteries varied in their data, but for the most part they all had a total voltage of around 10V. Interestingly, the individual cells were more random. My Uncle said that when a battery is charged, the charger concentrates electrons on the positive end of the battery circuit. It is then the move to the negative end and the resulting flow of electrons which powers the component (in this case, a drill). Based on this, he theorized that a neutral, unused battery should maintain a constant voltage across its cells. However, the outer cells on the broken batteries tended to be around 1.4V while the inner cells varied between 0.3V and 0.4V. With this knowledge, it was clear that some of the cells have faced damage and need to be replaced.
+
+These initial observations led to the creation of a two-step process.
+
+Step 1: Identify the bad batteries
+
+Clearly, none of the cells in the broken batteries are fully operational. However, with the definite lifespan of lithium-ion batteries, the hard part will be differentiating between the doomed ones and the ones that can be individually recharged. With one bad battery, the others will not be charged properly with a standard charger. So, we set up the charger for individual cells and immediately ran into a problem: The cells are sautered in place. We attemped to use spare wires and electrical tape to begin charging a cell without removing it completely. The electrical tape was not strong enough, though, so we concluded we will either have to establish a stronger connection or use my dad's sautering iron to remove the cells, charge them, and then reattach them. Once we successfully charge the cells, we can test the voltage again. This testing can be done in many ways, but our major consideration is using a breadboard and lights to test flow. This will be a major part of the learning experience. The ones that are charged up will be reattached, and the ones that aren't will be dealt with in step two.
+
+Step 2: Replace the bad ones with good ones
+
+The bad cells will be replaced with functional ones bought online. The hard part here will be the sautering. We cannot make mistakes there, or we may short a circuit. I have never sautered, and am looking forward to it. 
+
+Day 1 was a good experience, and once we have the necessary supplies (breadboard, lights, wiring, sautering iron, replacement cells), we will dive into day 2. I will keep you posted!
