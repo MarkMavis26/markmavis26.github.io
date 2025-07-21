@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Week 35"
+order: 32
+categories: blog
+---
+## End of Week 35 07/20/25
+This week has been all about the game engine. As I mentioned last week, I set up the basics with a tutorial. I have now begun to play around with doing my own stuff, as the tutorial will not be continued any time soon (also mentioned last week). For starters, I altered some of my pre-existing code to function with a live server. I wanted to be able to code and test simultaneously. The missing pieces were css frameworks and certain rendering instructions. I had to copy these directly from the tutorialee's GitHub repo because he evidently made some additions without featuring them on his tutorial page. Once I had a functional game I could see and control, I knew more clearly what I wanted to add and change. As it stood, you had a green square which could move in 8 directions. Some text was displayed at the top of the window as well. 
+
+I decided I wanted to have a red square, an enemy square, that would follow the player in a seek-and-destroy fashion. The code is very simple. The red square is drawn and spawned slightly off-center (the player is spawned at the center). Then, the difference in the x and y coordinates of the player and enemy are determined. From this, the straight line distance is calculated with a simple pythagorean theorem code block. The enemy is then instructed to encroach on the player and stop when the player is reached. Eventually, this action will have dastardly consequences. However, for now, the enemy doesn't even spawn in the game. I am working through all of that right now. I believe it is a problem with my server not updating.
+
+I will spare you the weekly thoughts portion of the blog. I have trauma dumped on my poor readers enough the past few weeks. I am doing alright. Thank you, and I'll see you next week.
