@@ -33,3 +33,12 @@ Step 2: Replace the bad ones with good ones
 The bad cells will be replaced with functional ones bought online. The hard part here will be the sautering. We cannot make mistakes there, or we may short a circuit. I have never sautered, and am looking forward to it. 
 
 Day 1 was a good experience, and once we have the necessary supplies (breadboard, lights, wiring, sautering iron, replacement cells), we will dive into day 2. I will keep you posted!
+
+#### Day 2
+The second session began with the unboxing of all of the arrived materials. Included were a sautering iron, a breadboard with a set of wires and small motherboards, a set of screwdrivers, a set of fresh batteries (replacement cells), and some lights for testing. After everything was layed out, we retested the charge of the relavant batteries, this time with a modified holder. The holder, which holds both ends of the cells for testing, was cut down so as to better fit the cells. Once again, the cells in the middle of the sets of 5 cells were the low ones. 
+
+Next, we set up the bread board like we would if we were charging. That is, the wires were arranged in the plus/minus row to accomodate an external battery. Those wires were connected to the central row, which connected a fan for testing. The fan blew! The only thing to be done after that was to replace the fan with the battery cells. 
+
+This is where the sautering iron comes in. To insure a strong connection, the wires that connect the charger to a battery holding unit must be sautered. I set up the sautering iron and heated it. I proceeded to successfully sauter one of the wires. It was fun! We called it after that because I had work, but we plan to charge the salvagable batteries and replace the rest.
+
+The major takeaways were that I enjoy playing with breadboards AND sautering. It was my first time with both, and I am glad I enjoy them (I want to be a computer engineer after all). I will definitely do more with both in the future.
